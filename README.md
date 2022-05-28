@@ -28,9 +28,9 @@
 <code > <img height = "70" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" > </code >
 <code > <img height = "70" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" > </code >
 <code > <img height = "70" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" > </code >
-[<img align="left" alt="Tensorflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"/>][github]
-[<img align="left" alt="Jupyter" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png"/>][github]
-[<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>][github]
+<code > <img height = "70" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" > </code >
+<code > <img height = "70" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" > </code >
+<code > <img height = "70" src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" > </code >
 
 <!--
 **FREDERICO23/FREDERICO23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
