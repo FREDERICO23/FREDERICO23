@@ -12,14 +12,14 @@
   </a>
 </p>
 
-<p align=center>
+<!-- <p align=center>
   <a href="https://github.com/FREDERICO23/github-readme-stats" title="Go to Source">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=FREDERICO23&show_icons=true&theme=vue">
   </a>
   <a href="https://github.com/FREDERICO23/github-readme-stats">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FREDERICO23&hide=c%23,powershell,java&title_color=2aa889&text_color=000&icon_color=2bbc8a&bg_color=fff&langs_count=8&layout=compact"/>
   </a>
-</p>
+</p> -->
 
 
 ## Languages and Tools 
