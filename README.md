@@ -12,16 +12,6 @@
   </a>
 </p>
 
-<p align=center>
-  <a href="https://github.com/FREDERICO23/github-readme-stats" title="Go to Source">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=FREDERICO23&show_icons=true&theme=vue">
-  </a>
-  <a href="https://github.com/FREDERICO23/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FREDERICO23&hide=c%23,powershell,java&title_color=2aa889&text_color=000&icon_color=2bbc8a&bg_color=fff&langs_count=8&layout=compact"/>
-  </a>
-</p>
-
-
 ## Languages and Tools 
 <code > <img height = "70" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" > </code >
 <code > <img height = "70" src = "https://e7.pngegg.com/pngimages/159/366/png-clipart-django-python-computer-icons-logo-python-text-label.png" > </code >
