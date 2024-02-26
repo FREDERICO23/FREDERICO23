@@ -32,6 +32,8 @@
 - [Getting Started with Image Preprocessing in Python](https://www.section.io/engineering-education/image-preprocessing-in-python/)
 - [Federated Learning for Tabular Data using Flowr Framework](https://heartbeat.comet.ml/federated-learning-for-tabular-data-using-flower-framework-da30c21f6324)
 - [Building Machine Learning-Enabled Web Applications with Django and Scikit-Learn Introduction](https://soshace.com/building-machine-learning-enabled-web-applications-with-django-and-scikit-learn-introduction/)
+- [Exploring the Power of Llama 2 Using Streamlit](https://medium.com/cometheartbeat/exploring-the-power-of-llama-2-using-streamlit-62c7962d99f3?source=user_profile---------0----------------------------)
+- [Chat and Visualize Your Data with Langchain and Streamlit](https://medium.com/ai-in-plain-english/chat-and-visualize-your-data-with-langchain-and-streamlit-2c26de417e05?source=user_profile---------1----------------------------)
 
 ### Web developement
 - [How To Authenticate Django Apps using django-allauth](https://www.digitalocean.com/community/tutorials/how-to-authenticate-django-apps-using-django-allauth)
@@ -39,7 +41,7 @@
 ### DevOps
 - [Installing and Using GitHub Actions Runner on Vultr Kubernetes Engine](https://www.vultr.com/docs/installing-and-using-github-actions-runner-on-vultr-kubernetes-engine/)
 - [How to Install GitLab Runner on Vultr Kubernetes Engine](https://www.vultr.com/docs/how-to-install-gitlab-runner-on-vultr-kubernetes-engine/)
-
+- [A Deep Dive in Kubernetes Metrics](https://www.getambassador.io/blog/kubernetes-metrics-deep-dive)
 ### Python
 - [Introduction to Python Virtual Environments and Dependency Managers](https://www.section.io/engineering-education/introduction-to-virtual-environments-and-dependency-managers/)
 - [Creating an audiobook with Pyttxs3, PyPDF3 and Tkinter](https://www.section.io/engineering-education/creating-an-audiobook-with-pyttxs3-pypdf3-and-tkinter/)
