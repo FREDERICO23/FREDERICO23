@@ -4,9 +4,7 @@
   <a href="https://twitter.com/adhinga_fred">
     <img src="https://img.shields.io/twitter/follow/adhinga_fred?adhinga_fred?color=green&logo=twitter" alt="twitter" />
   </a>
-  <a href="https://github.com/FREDERICO23">
-    <img src="https://komarev.com/ghpvc/?username=FREDERICO23" alt="page views" />
-  </a>
+  
  <a href="https://github.com/FREDERICO23?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/FREDERICO23?color=green&logo=github">
   </a>
